@@ -11,5 +11,8 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@wallace-semantic-example/two": "1.0.1"
   }
 }
